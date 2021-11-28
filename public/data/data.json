@@ -1,0 +1,77 @@
+[{
+        "AboutAce": [
+            { "title": "Aboutfollowme", "subtitle": ["Company Introduction"] },
+
+            {
+                "title": "Legal Notifications",
+                "subtitle": [{
+                        "show": false,
+                        "heading": "Terms & Conditions",
+                        "para": "Please be advised that by using the services provided on the FOLLOWME website that you are accepting the FOLLOWME Terms of Service(hereinafter referred to as the Terms).It is your responsibility that you read these terms carefully and completely so that you fully understand the contents of the FOLLOWME Terms of Service and the related laws and regulations before engaging in any services or products provided by FOLLOWME.In essence you are legally bound by the terms with regards to the following being provided by FOLLOWME;the FOLLOWME website(including sub - pages)data platforms and third - party signal providers('Brokers') that you choose or enable.If you do not agree to the terms do not use any products and services on this site.This agreement is between Follow Me Technology Limited(“the Company”) and an individual or company registered on the website www.followme.com(“Partner”) who has explicitly accepted these terms and conditions"
+                    },
+                    { "heading": "Privacy", "para": "This Privacy Policy explains how we collect, use, process and disclose your information, including personal information related to your visit and use of FOLLOWME and payment services. If there are undefined terms in this Privacy Policy (such as service item or FOLLOWME), its definition is consistent with our definition in the terms of service. In this policy, FOLLOWME, us or our refers to Follow Me Technology Limited company responsible for your information under this Privacy Policy." },
+                    { "heading": "Disclaimer", "para": "Contracts for difference (CFDs) are complex financial  contracts traded on leverage. With leverage, the value of the contract is magnified. This may lead to huge swing of profit or loss. Therefore, you should learn and understand more on CFDs before investing and know whether you are able to risk the loss of some or all of your capital. Please seek proper advice from independent financial adviser separately.Any information published on the official website of FOLLOWME and its sub-pages is intended to provide users of this website with trading dynamics and information services. This website does not provide any form of investment advice." },
+                    { "heading": "Rules & Regulation", "para": "FOLLOWME community is established to be guided by investment strategies and share investment strategies and investment knowledge. Therefore, FOLLOWME has developed a set of basic community rules, please be aware of it.Community information is only to provide reference information for investment, so that investment users can learn, share, and interact with each other, and does not constitute any investment advice or recommendation. Investment depends entirely on your personal independent thinking and decision-making, FOLLOWME will not bear any responsibility for the profit or loss of investment.1. The community is a platform for traders and followers to communicate so that the followers can follow the investment through communication and understanding of traders who choose to trust. " }
+                ]
+            },
+            {
+                "title": "Page",
+                "subtitle": [{ "heading": "Brand Page Policy", "para": " Overview Understanding our policies The following terms, as well as ourData Policy、Community StandardsandTerms of Services, apply to all creators and administrators of Brand Pages. You are responsible for ensuring that your Brand Page content, post or event complies with all applicable laws, statutes and regulations." },
+                    { "heading": "Brand Content Policy", "para": "Branded content can only be published by using the branded content tool of the FOLLOWME personal account or FOLLOWME Brand Page. We define branded content as the content that creators/publishers publish for promoting the content published by partners or under the operation of partners. You can use the FOLLOWME brand page and personal homepage of the brand content tool. This tool can be used to mark third-party products, brands, or partners involved in the content." }
+                ]
+            },
+
+            { "title": "others", "subtitle": ["Career", "Contact Us"] }
+
+        ]
+    },
+
+    {
+        "followus": [{ "title": "Follow Us", "subtitle": ["Facebook", "Twitter", "Youtube", "Linkedin"] }]
+    },
+
+    {
+        "features": [{ "title": "Features", "subtitle": [] },
+            { "title": "Graphs & Report", "subtitle": ["Quates", "Trader Sentiment Index", "Pending Order & Position"] },
+            { "title": "Tools", "subtitle": ["Calender", "Real-Time News"] },
+            { "title": "Others", "subtitle": ["Cash"] }
+        ]
+    },
+
+
+
+    {
+        "Notification": [{ "title": "Notification", "subtitle": [] },
+            {
+                "title": "Comment and Mention",
+                "smalltext": "Receive notification when commented or responded by",
+                "subtitle": [{
+                        "radio": "true",
+                        "radiopara": "Any One"
+                    },
+                    { "radio": "true", "radiopara": "The people who  i have subscription relationship with or who i am following" },
+                    { "radio": "true", "radiopara": "Don't Receive Notification" }
+                ]
+            },
+            {
+                "title": "Accept Private Message",
+                "smalltext": "You will receive private messages and notifications when someone texted you",
+                "subtitle": [{ "radio": "true", "radiopara": "Any One", "smalltext": "Strangers can send you up to 3 private messages every day, and limit will be cancelled after replying" },
+                    { "radio": "true", "radiopara": "The People who i have subscribtion with or who i am following" }
+                ],
+                "Checked": "true"
+            }
+
+        ]
+    },
+    {
+        "Trading": [{ "title": "Trading", "subtitle": [] },
+            { "title": "open Trade in one Click", "subtitle": ["No More Confirmation when trading"], "toggled": "true" },
+            { "title": "Close Trade in one Click", "subtitle": ["No More Confirmation when trading"], "toggled": "true" },
+            { "title": "Trading Volume Less Than Broker's Limit", "subtitle": [{ "radiopara": "Dont open Trade", "radio": "true" }, { "radiopara": "Opent Trade with the minmum volume", "radio": "true" }], "checked": "true" }
+
+
+        ]
+    }
+
+]
